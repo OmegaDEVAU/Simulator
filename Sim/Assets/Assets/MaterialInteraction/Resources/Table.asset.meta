@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 25f95e9307ac843fb98ce5e7c198808c
+labels:
+- PhysicMaterial
+- Collisions
+- MaterialInteraction
+- Spawn
+- Prefab
+- Collision
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
