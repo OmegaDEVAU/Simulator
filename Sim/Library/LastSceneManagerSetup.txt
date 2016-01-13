@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Net Test.unity
+- path: Assets/Scenes/BackUp.unity
   isLoaded: 1
   isActive: 1
