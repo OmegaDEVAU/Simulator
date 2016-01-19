@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/BackUp.unity
+- path: Assets/Multiplayer TEST.unity
   isLoaded: 1
   isActive: 1
